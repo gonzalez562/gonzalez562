@@ -90,7 +90,10 @@ justify-content:space-between;
 				display:initial;
 			}
 		}
-		
+		img{
+			width: 100%;
+			height: auto;
+		}
 		table{
 			border-collapse: collapse;
 			width: 80%;
